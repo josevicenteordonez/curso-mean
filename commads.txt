@@ -1,0 +1,27 @@
+-------------------- NODE ------------------------------
+
+node --version
+
+npm --version
+
+node [nameFile.js] // Run Js File in nodeJs
+
+require([./nameFile]) // node command to load content the external JS File, "./" local file
+
+module.exports // node command to export methods
+module.exports = [function]
+module.exports.[functon]
+module.exports = { name : [nameFunction] }
+
+npm // dependeny managment
+npm init // init de package.json
+npm install // instal all dependencies in package.json
+npm install --production // instal all dependencies in package.json for production
+npm install
+
+
+----------------- EXPRESS ------------------
+Web Application Framework in the mean stack
+
+
+
